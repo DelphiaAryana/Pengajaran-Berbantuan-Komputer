@@ -33,7 +33,10 @@ Berikut adalah contoh Tutorials Point memberikan materi berupa tutorial.
 <p align="justify"> Tutorials Point memberikan materi secara terurut berupa langkah-langkah atau disebut juga dengan tutorial. Seperti contoh pada gambar di atas merupakan salah satu halaman untuk mempelajari HTML, pada sidebar, terdapat sub-sub materi yang bisa dipelajari pengguna secara terurut.
 
 <br>
-<img src="sidebar.png" width=35%>
+
+<img src="sidebar.png" width="35%" style="display: block; margin: 0 auto;">
+
+
 
 <br>
 
