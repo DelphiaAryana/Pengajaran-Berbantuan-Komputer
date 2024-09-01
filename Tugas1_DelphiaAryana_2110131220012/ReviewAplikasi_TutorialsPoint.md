@@ -34,9 +34,7 @@ Berikut adalah contoh Tutorials Point memberikan materi berupa tutorial.
 
 <br>
 
-<img src="sidebar.png" width="35%" style="display: block; margin: 0 auto;">
-
-
+<img src="sidebar.png" width="38%" style="display: block; margin: 0 auto;">
 
 <br>
 
