@@ -1,7 +1,9 @@
 ## Tugas Review Aplikasi Tutor, Tool, dan Tutee
 
 Nama        : Delphia Aryana
+
 NIM         : 2110131220012
+
 Mata Kuliah : Pembelajaran Berbantuan Komputer
 
 <h1 align="center">Tutorials Point</h1>
@@ -24,11 +26,12 @@ Berikut adalah topik-topik yang dapat dipelajari pada tutorials Point.
 
 <p align="justify">Sebagai tutor, Tutorials Point berfungsi sebagai sumber daya pendidikan yang komprehensif. Aplikasi ini menyediakan tutorial langkah demi langkah, penjelasan konsep yang jelas, dan contoh praktis untuk membantu pengguna memahami topik tertentu. Kontennya dikemas dalam format teks, video, dan interaktif yang memungkinkan pengguna belajar sesuai dengan gaya belajar mereka. Dengan fitur kuis dan ujian di akhir setiap modul, pengguna dapat mengukur pemahaman mereka tentang materi yang dipelajari, seolah-olah mereka sedang diajar oleh seorang tutor.</p>
 
-<p align="justify"> Berikut adalah contoh Tutorials Point memberikan materi berupa tutorial.
+Berikut adalah contoh Tutorials Point memberikan materi berupa tutorial.
 
-<img src="Materi_TutoriasPoint.png" width=80%>
+<img src="Materi_TutoriasPoint.png">
 
 <p align="justify"> Tutorials Point memberikan materi secara terurut berupa langkah-langkah atau disebut juga dengan tutorial. Seperti contoh pada gambar di atas merupakan salah satu halaman untuk mempelajari HTML, pada sidebar, terdapat sub-sub materi yang bisa dipelajari pengguna secara terurut.
+
 
 <img src="sidebar.png" width=50%>
 
@@ -37,9 +40,13 @@ Berikut adalah topik-topik yang dapat dipelajari pada tutorials Point.
 ## Sebagai <b>Tool<b>
 <p align="justify">Sebagai tool, Tutorials Point menyediakan alat bantu belajar seperti compiler online untuk berbagai bahasa pemrograman, editor kode, dan simulator. Fitur ini memungkinkan pengguna untuk langsung mencoba kode atau konsep yang baru dipelajari tanpa harus meninggalkan aplikasi. Selain itu, ada juga kalkulator, konverter, dan alat pendukung lainnya yang memudahkan proses belajar dan praktik.</p>
 
-<img src="tool.png" width=80%>
+<br>
+
+<img src="tool.png">
 
 <p align="justify">Pada contoh di atas, terdapat editor kode untuk menjalankan program python. Sehingga pengguna dapat langsung mencoba menuliskan kode dan menjalankannya saat mempelajari materi.</p>
+
+<br>
 
 ## Sebagai <b>Tutee<b>
 
