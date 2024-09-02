@@ -26,11 +26,11 @@ Mata Kuliah : Pembelajaran Berbantuan Komputer
 
 <img src="Materi_TutoriasPoint.png">
 
-* Sebagai tutor, Tutorials Point berfungsi sebagai sumber daya pendidikan yang komprehensif. Aplikasi ini menyediakan tutorial langkah demi langkah, penjelasan konsep yang jelas, dan contoh praktis untuk membantu pengguna memahami topik tertentu. Kontennya dikemas dalam format teks, video, dan interaktif yang memungkinkan pengguna belajar sesuai dengan gaya belajar mereka. Dengan fitur kuis dan ujian di akhir setiap modul, pengguna dapat mengukur pemahaman mereka tentang materi yang dipelajari, seolah-olah mereka sedang diajar oleh seorang tutor.
+Sebagai tutor, Tutorials Point berfungsi sebagai sumber daya pendidikan yang komprehensif. Aplikasi ini menyediakan tutorial langkah demi langkah, penjelasan konsep yang jelas, dan contoh praktis untuk membantu pengguna memahami topik tertentu. Kontennya dikemas dalam format teks, video, dan interaktif yang memungkinkan pengguna belajar sesuai dengan gaya belajar mereka. Dengan fitur kuis dan ujian di akhir setiap modul, pengguna dapat mengukur pemahaman mereka tentang materi yang dipelajari, seolah-olah mereka sedang diajar oleh seorang tutor.
 
 <img src="sidebar.png" width="38%" style="display: block; margin: 0 auto;">
 
-* Tutorials Point memberikan materi secara terurut berupa langkah-langkah atau disebut juga dengan tutorial. Seperti contoh pada gambar di atas merupakan salah satu halaman untuk mempelajari HTML, pada sidebar, terdapat sub-sub materi yang bisa dipelajari pengguna secara terurut.
+Tutorials Point memberikan materi secara terurut berupa langkah-langkah atau disebut juga dengan tutorial. Seperti contoh pada gambar di atas merupakan salah satu halaman untuk mempelajari HTML, pada sidebar, terdapat sub-sub materi yang bisa dipelajari pengguna secara terurut.
 
 <br>
 
@@ -44,7 +44,7 @@ Mata Kuliah : Pembelajaran Berbantuan Komputer
 
 <br>
 
-## Sebagai <b>Tutee<b>
+## As a Tutee
 
 <img src="tutee.png" width=80%>
 
